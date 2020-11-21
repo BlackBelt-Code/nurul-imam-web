@@ -1,0 +1,58 @@
+* siswa
+    * first name
+    * last name
+    * full name
+    * email
+    * tgl lahir
+    * alamat
+    * foto
+* NIK
+    * user_id
+    * NIK
+* NISN
+    * user_id
+    * NISN
+* PHONE
+    * user_id
+    * phone
+* guru
+    * first name
+    * last name
+    * full name
+    * NIK
+    * email
+    * tgl lahir
+    * alamat
+    * foto
+* sarana 
+	* kelas
+	* wc
+	* lab
+* program
+	* keputrian 
+		* hari
+		* minggu
+		* topic
+	* literasi
+		* membaca
+			* hari
+			* judul
+			* tentang
+			* nama siswa
+			* nyambung ke bhasa indonesia
+* Rpp
+    * MataPelajaran (pisah)
+    * kelas (pisah)
+    * semester
+    * tahun ajaran
+    * kompetensi dasar
+    * IPK
+    * tujuan
+    * materi
+    * pendekatan
+    * model
+    * alat/media
+    * sumber belajar
+    * penilaian
+    * tanggal
+    * pertemuan
